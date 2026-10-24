@@ -1,0 +1,21 @@
+# Данные соревнования H&M: распространять нельзя (правила Kaggle)
+data/*
+!data/.gitkeep
+
+# Секреты
+kaggle.json
+access_token
+.env
+
+# Python и Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
